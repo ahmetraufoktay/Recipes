@@ -1,2 +1,2 @@
 # Recipes
-Odin Recipes Project
+In this project I practiced my html skills to build a simple recipes website.
